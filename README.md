@@ -22,12 +22,3 @@ For example, EnpointRegistration issuses could be auto-assigned to the endpoint 
 |Bugzilla|https://www.bugzilla.org/|
 |ITFlow|https://www.itflow.org/|
 |Zammad|https://zammad.org|
-
-
-#### Free and Open Source:
-
-OS Ticket
-
-Bugzilla
-
-ITFlow
