@@ -5,13 +5,20 @@ It may be possible for some of the redundant notices to be filtered in the curre
 ----
 
 ####Paid Services:
+
 Service Now
+
 Jira - Service Management
+
 Zen Desk
+
 PagerDuty (perhaps?)
 
 
 ####Free and Open Source:
+
 OS Ticket
+
 Bugzilla
+
 ITFlow
