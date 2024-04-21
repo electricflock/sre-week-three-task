@@ -1,0 +1,19 @@
+has restarted 1 times
+under the threshold. will wait
+Sun Apr 21 21:00:45 UTC 2024
+has restarted 1 times
+under the threshold. will wait
+Sun Apr 21 21:01:45 UTC 2024
+has restarted 2 times
+under the threshold. will wait
+Sun Apr 21 21:02:45 UTC 2024
+has restarted 3 times
+under the threshold. will wait
+Sun Apr 21 21:03:45 UTC 2024
+has restarted 3 times
+under the threshold. will wait
+Sun Apr 21 21:04:45 UTC 2024
+has restarted 4 times
+too many restarts. time to shut it down
+deployment.apps/swype-app scaled
+will now exit
