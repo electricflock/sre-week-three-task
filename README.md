@@ -1,4 +1,4 @@
-#Reducing Toil
+# Reducing Toil
 
 It may be possible for some of the redundant notices to be filtered in the current system, as well as auto-assingment of issues based on their type. 
 
@@ -6,7 +6,7 @@ For example, EnpointRegistration issuses could be auto-assigned to the endpoint 
 
 ----
 
-####Paid Services:
+#### Paid Services:
 
 Service Now
 
@@ -18,7 +18,7 @@ PagerDuty (perhaps?)
 
 
 
-####Free and Open Source:
+#### Free and Open Source:
 
 OS Ticket
 
