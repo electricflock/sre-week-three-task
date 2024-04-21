@@ -8,13 +8,12 @@ For example, EnpointRegistration issuses could be auto-assigned to the endpoint 
 
 #### Paid Services:
 
-Service Now
-
-Jira - Service Management
-
-Zen Desk
-
-PagerDuty (perhaps?)
+| Paid Service | URL |
+|-----:|---------------|
+|Service Now|               |
+|Jira|               |
+|ZenDesk|               |
+|Pagerduty|               |
 
 
 
