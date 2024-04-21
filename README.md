@@ -10,10 +10,10 @@ For example, EnpointRegistration issuses could be auto-assigned to the endpoint 
 
 | Paid Service | URL |
 |-----:|---------------|
-|Service Now|               |
-|Jira|               |
-|ZenDesk|               |
-|Pagerduty|               |
+|Service Now|https://www.servicenow.com/|
+|Jira|https://www.atlassian.com/software/jira|
+|ZenDesk|https://www.zendesk.com/|
+|Pagerduty|https://www.pagerduty.com/|
 
 
 | Free Software | URL |
