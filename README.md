@@ -6,7 +6,7 @@ For example, EnpointRegistration issuses could be auto-assigned to the endpoint 
 
 ----
 
-#### Paid Services:
+### Ticketing Tools
 
 | Paid Service | URL |
 |-----:|---------------|
@@ -15,6 +15,13 @@ For example, EnpointRegistration issuses could be auto-assigned to the endpoint 
 |ZenDesk|               |
 |Pagerduty|               |
 
+
+| Free Software | URL |
+|-----:|---------------|
+|OS Ticket|https://osticket.com/|
+|Bugzilla|https://www.bugzilla.org/|
+|ITFlow|https://www.itflow.org/|
+|Zammad|https://zammad.org|
 
 
 #### Free and Open Source:
